@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 [![IDE](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
 [![Programming Languages](https://skillicons.dev/icons?i=java,go)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-[![Other](https://skillicons.dev/icons?i=docker,grafana,mysql,mongodb)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=docker,grafana,mysql,mongodb,bash,gradle,linux)](https://skillicons.dev)
