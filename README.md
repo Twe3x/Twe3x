@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### The Languages and Tools i use:
+[![IDE](https://skillicons.dev/icons?i=idea)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=java,go)](https://skillicons.dev)
+[![Git](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![Other](https://skillicons.dev/icons?i=docker,grafana,mysql,mongodb)](https://skillicons.dev)
